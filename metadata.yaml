@@ -1,0 +1,32 @@
+_repo: The-History-of-the-Rise-Progress-and-Accomplishment-of-the-Abolition-of-the-African-Slave-Tra__12507
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clarkson, Thomas
+    alias: Clarkson, T. (Thomas)
+    birthdate: 1760
+    deathdate: 1846
+    gutenberg_agent_id: '3503'
+    url: http://www.gutenberg.org/2009/agents/3503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Clarkson
+description: ''
+gutenberg_bookshelf:
+- Africa
+- Slavery
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slave trade -- Africa'
+- !lcc 'HT'
+- GITenberg
+title: 'The History of the Rise, Progress and Accomplishment of the Abolition of the
+  African Slave Trade by the British Parliament (1808)
+
+  Volume II'
+url: http://www.gutenberg.org/ebooks/12507
